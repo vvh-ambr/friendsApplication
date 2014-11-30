@@ -2,7 +2,7 @@ friendsApplication
 ==================
 ##### To make things work:
 
-    node _nodeServer.js // or use nodemon
+    node _nodeServer.js //or use nodemon
     
 ### Future Releases Plan:
 
