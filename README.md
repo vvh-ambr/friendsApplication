@@ -1,7 +1,6 @@
 friendsApplication
 ==================
-#####
- In box:
+##### In box:
  - Angular.js
  - Express.js
  - Node.js
