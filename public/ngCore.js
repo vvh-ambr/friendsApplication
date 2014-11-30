@@ -1,4 +1,4 @@
-angular.module('friendsApp', ['ngRoute', 'ngResource', 'ngMessages'])
+angular.module('friendsApp', ['ngRoute', 'ngResource'])
 .config(function($routeProvider, $locationProvider) {
 
   $routeProvider
