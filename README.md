@@ -1,5 +1,12 @@
 friendsApplication
 ==================
+#####
+ In box:
+ - Angular.js
+ - Express.js
+ - Node.js
+ - DB: lightweight BourneDB, with MongoDB-like syntax
+ 
 ##### To make things work:
 
     node _nodeServer.js //or use nodemon
