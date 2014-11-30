@@ -1,9 +1,9 @@
 friendsApplication
 ==================
 ##### In box:
- - Angular.js[includes: angular-resource, angular-route]
+ - Angular.js [includes: angular-resource, angular-route]
  - Express.js
- - Node.js[templatingEngine: Jade]
+ - Node.js [templatingEngine: Jade]
  - DB: lightweight BourneDB, with MongoDB-like syntax
  
 ##### To make things work:
