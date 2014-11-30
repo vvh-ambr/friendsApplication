@@ -1,0 +1,21 @@
+{
+  "name": "_friendsApp",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ath--/f-app",
+  "authors": [
+    "Ath-- <ibk.arct@gmail.com>"
+  ],
+  "main": "_nodeServer.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_client/bowerLib",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "_friendsApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "bourne": "^0.4.0",
+    "express": "^4.10.4",
+    "express-session": "^1.9.2",
+    "jade": "^1.7.0",
+    "morgan": "^1.5.0",
+    "path": "^0.4.9"
+  }
+}

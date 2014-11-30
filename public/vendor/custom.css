@@ -1,0 +1,24 @@
+/* .navigation {
+  position: fixed;
+  background-color: lightblue;
+  top: 0;
+  bottom: 0;
+  left: 0px;
+  right: 85%;
+
+}
+
+.test {
+  width: 20px;
+  height: 1000px;
+  background-color: gray;
+  float: right;
+} */
+
+.row {
+  margin-top: 5px;
+}
+
+ul {
+  list-style: none;
+}
